@@ -34,7 +34,7 @@
                         <!-- <img src="https://avatars.githubusercontent.com/u/11191442?v=4" class="img-circle elevation-2" alt="User Image"> -->
                     </div>
                     <div class="info">
-                        <a href="#" class="d-block">Akbar Dwi Syahputra</a>
+                        <a href="#" class="d-block">Syifa A.m</a>
                     </div>
                 </div>
 
